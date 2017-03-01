@@ -1,0 +1,22 @@
+
+
+.no-padding {
+    padding: 0 !important;
+}
+
+.dti {
+    font-size: 42pt;
+    text-align: center;
+}
+
+.infoBar {
+
+}
+
+.parallax-container {
+    max-height:120px;
+}
+
+.parallax img {
+    margin: 9em;
+}
