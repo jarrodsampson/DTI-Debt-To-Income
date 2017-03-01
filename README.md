@@ -4,7 +4,7 @@ Helping you better understand your credit. Built with ReactJS and MaterializeCSS
 [![Build Status](https://travis-ci.org/stevenbenner/jquery-powertip.svg?branch=master)](https://travis-ci.org/stevenbenner/jquery-powertip)
 ![License](https://img.shields.io/packagist/l/doctrine/orm.svg)
 
-![Image](https://github.com/planlodge/Patients-Scheduling/blob/master/public/img/screen2.png?raw=true)
+![Image](https://github.com/planlodge/DTI-Debt-To-Income/blob/master/assets/images/screen1.png?raw=true)
 
 ## Description
 
