@@ -1,5 +1,5 @@
 # Credit DTI
-Helping you better understand your credit. AngularJS application styled with Bootstrap using SASS. Designed by [planlodge](http://planlodge.com).
+Helping you better understand your credit. Built with ReactJS and MaterializeCSS. Designed by [planlodge](http://planlodge.com).
 
 [![Build Status](https://travis-ci.org/stevenbenner/jquery-powertip.svg?branch=master)](https://travis-ci.org/stevenbenner/jquery-powertip)
 ![License](https://img.shields.io/packagist/l/doctrine/orm.svg)
@@ -8,14 +8,14 @@ Helping you better understand your credit. AngularJS application styled with Boo
 
 ## Description
 
-> It's friday and the weekend is quickly approaching. The list of scheduled appointments has become somewhat of a mess and your assistant as left for the weekend already. It's up to you to sort out which appointments have been completed already and which ones need to be cancelled. Hurry hurry, patients show up at all sorts of hours with different needs!
+> Your debt-to-income ratio (DTI) compares how much you owe each month to how much you earn. Specifically, it’s the percentage of your gross monthly income (income before taxes) that goes towards payments.
 
 ## Features
-- Add new appointments to your schedule
-- Remove appointments that were cancelled or made by mistake
-- Search through existing appointments by name
-- Edit existing appointments and resechedule times if necessary.
-- Take notes on each appointment to help remember which patient needs what
+- Add, view, and Remove expenses from your list
+- Get helpful advice based on your DTI score
+- Calculate DTI based on your gross monthly income and expenses
+- Easy to use UI
+- Responsive
 
 ## License
 
